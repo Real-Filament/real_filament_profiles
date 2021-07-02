@@ -2,9 +2,9 @@
 
 This git repository is dedicated to sharing slicing software printing profiles for Real filament products. For more information on Real filament products see https://real-filament.com
 
-# Cura profiles
+## Cura profiles
 
-To install profiles in Cura follow these steps. First open the material preferences dialog:
+The download contains a subfolder Cura with profiles compatible with Ultimaker Cura software. To install profiles in Cura follow these steps. First open the material preferences dialog:
 
 ![cura_installation_1](https://user-images.githubusercontent.com/2556592/124265668-51ade580-db36-11eb-8893-b2c32edef6de.png)
 
