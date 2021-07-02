@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Real Filament</brand>
+      <material>PETG</material>
+      <color>Generic</color>
+      <label>PETG 1.75</label>
+    </name>
+    <version>1</version>
+    <GUID>b14212c1-272e-4bd5-8fd3-0ded300f00ea</GUID>
+    <color_code>#226fff</color_code>
+    <description>Superior quality PETG, produced in The Netherlands. Real filaments guarantees that the PETG is high-quality and diameter consistent filament, giving you the best 3D printing experience. PETG is great for beginners and novices alike, as it is easy to print and a sweet balance between printability and strong prints. The base material is very clear, so the neutral version delivers semi-transparent results. Within the Real brand we also have PETG available in translucent colors. As the print temperature is higher, the temperature resistance of the print is higher than other materials. If you experience (much) stringing, it is recommended to try a higher temperature.</description>
+    <adhesion_info>3dlac on glass sheet is recommended.</adhesion_info>
+    <cura:pva_compatible>False</cura:pva_compatible>
+    <cura:breakaway_compatible>False</cura:breakaway_compatible>
+  </metadata>
+  <properties>
+    <density>1.27</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="print temperature">245.0</setting>
+    <setting key="heated bed temperature">65.0</setting>
+    <setting key="standby temperature">220.0</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="retraction amount">6.5</setting>
+    <setting key="retraction speed">45.0</setting>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker 3" />
+      <setting key="print temperature">230</setting>
+      <setting key="heated bed temperature">60</setting>
+      <setting key="standby temperature">175</setting>
+      <setting key="print cooling">100</setting>
+      <hotend id="BB 0.4">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="BB 0.8">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.25">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.4">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.8">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker 3 Extended" />
+      <setting key="print temperature">230</setting>
+      <setting key="heated bed temperature">60</setting>
+      <setting key="standby temperature">175</setting>
+      <setting key="print cooling">100</setting>
+      <hotend id="BB 0.4">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="BB 0.8">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.25">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.4">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.8">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker S5" />
+      <setting key="print temperature">230</setting>
+      <setting key="heated bed temperature">60</setting>
+      <setting key="standby temperature">175</setting>
+      <setting key="print cooling">100</setting>
+      <hotend id="BB 0.4">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="BB 0.8">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.25">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.4">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.8">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker S3" />
+      <setting key="print temperature">230</setting>
+      <setting key="heated bed temperature">60</setting>
+      <setting key="standby temperature">175</setting>
+      <setting key="print cooling">100</setting>
+      <hotend id="BB 0.4">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="BB 0.8">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.25">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.4">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="AA 0.8">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+    </machine>
+  </settings>
+</fdmmaterial>
