@@ -3,33 +3,32 @@
   <metadata>
     <name>
       <brand>Real Filament</brand>
-      <material>ABS</material>
+      <material>TPU</material>
       <color>Generic</color>
-      <label>ABS 1.75</label>
+      <label>TPU 98A 1.75</label>
     </name>
     <version>1</version>
-    <GUID>f71de9e3-a3ed-4e5c-bc8f-79d31df13f1e</GUID>
+    <GUID>9d63e496-fe7b-4678-a6b4-3cba0946b000</GUID>
     <color_code>#226fff</color_code>
-    <description>Superior quality ABS, produced in The Netherlands. Real filaments guarantees that the ABS is high-quality and diameter consistent filament, giving you the best 3D printing experience. Generally you need a heated bed to print with ABS and a heated chamber is preferred. In the Real filament ABS line, there are also ABS plus and Pro available, which make it easier to print. The ABS is a pure base material, optimized for 3D printing, giving the best performance possible.</description>
+    <description>Superior quality, produced in The Netherlands. Real filaments guarantees that the TPU is high-quality and diameter consistent filament, giving you the best 3D printing experience. TPU is great for beginners to 3D printing, but also novices will find it great to use, as it is easy to work with while still give stunning results. TPU filament is available in multiple colors, but also different types are available within the Real brand.</description>
     <adhesion_info>3dlac on glass sheet is recommended.</adhesion_info>
     <cura:pva_compatible>False</cura:pva_compatible>
     <cura:breakaway_compatible>False</cura:breakaway_compatible>
   </metadata>
   <properties>
-    <density>1.05</density>
+    <density>1.15</density>
     <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="print temperature">255.0</setting>
-    <setting key="heated bed temperature">85.0</setting>
-    <setting key="standby temperature">220.0</setting>
+    <setting key="print temperature">230.0</setting>
+    <setting key="heated bed temperature">55.0</setting>
+    <setting key="standby temperature">180.0</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>
-    <setting key="retraction amount">6.5</setting>
-    <setting key="retraction speed">45.0</setting>
+    <setting key="retraction speed">25.0</setting>
+    <setting key="retraction amount">8.0</setting>
     <machine>
       <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker S5" />
-      <setting key="print temperature">230</setting>
       <setting key="heated bed temperature">60</setting>
       <setting key="standby temperature">175</setting>
       <setting key="print cooling">100</setting>
@@ -51,7 +50,6 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker S3" />
-      <setting key="print temperature">230</setting>
       <setting key="heated bed temperature">60</setting>
       <setting key="standby temperature">175</setting>
       <setting key="print cooling">100</setting>
@@ -73,7 +71,6 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker 3 Extended" />
-      <setting key="print temperature">230</setting>
       <setting key="heated bed temperature">60</setting>
       <setting key="standby temperature">175</setting>
       <setting key="print cooling">100</setting>
@@ -95,7 +92,6 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker 3" />
-      <setting key="print temperature">230</setting>
       <setting key="heated bed temperature">60</setting>
       <setting key="standby temperature">175</setting>
       <setting key="print cooling">100</setting>

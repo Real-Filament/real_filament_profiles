@@ -3,30 +3,31 @@
   <metadata>
     <name>
       <brand>Real Filament</brand>
-      <material>ABS</material>
+      <material>PA</material>
       <color>Generic</color>
-      <label>ABS 1.75</label>
+      <label>PA (Nylon) 1.75</label>
     </name>
     <version>1</version>
-    <GUID>f71de9e3-a3ed-4e5c-bc8f-79d31df13f1e</GUID>
+    <GUID>39b624d5-c510-4fec-b5de-9c1b11ce9690</GUID>
     <color_code>#226fff</color_code>
-    <description>Superior quality ABS, produced in The Netherlands. Real filaments guarantees that the ABS is high-quality and diameter consistent filament, giving you the best 3D printing experience. Generally you need a heated bed to print with ABS and a heated chamber is preferred. In the Real filament ABS line, there are also ABS plus and Pro available, which make it easier to print. The ABS is a pure base material, optimized for 3D printing, giving the best performance possible.</description>
+    <description>Superior quality ASA, produced in The Netherlands. Real filaments guarantees that the ABS is high-quality and diameter consistent filament, giving you the best 3D printing experience. Generally you need a heated bed to print with ASA and a heated chamber is preferred. In the Real filament ASA line, there are also ABS plus and Pro available, which make it easier to print. The ASA is a pure base material, optimized for 3D printing, giving the best performance possible.</description>
     <adhesion_info>3dlac on glass sheet is recommended.</adhesion_info>
     <cura:pva_compatible>False</cura:pva_compatible>
     <cura:breakaway_compatible>False</cura:breakaway_compatible>
   </metadata>
   <properties>
-    <density>1.05</density>
+    <density>1.03</density>
     <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="print temperature">255.0</setting>
-    <setting key="heated bed temperature">85.0</setting>
+    <setting key="print temperature">260.0</setting>
+    <setting key="heated bed temperature">110.0</setting>
     <setting key="standby temperature">220.0</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>
     <setting key="retraction amount">6.5</setting>
     <setting key="retraction speed">45.0</setting>
+    <setting key="print cooling">0.0</setting>
     <machine>
       <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker S5" />
       <setting key="print temperature">230</setting>

@@ -3,30 +3,31 @@
   <metadata>
     <name>
       <brand>Real Filament</brand>
-      <material>ABS</material>
+      <material>PETG</material>
       <color>Generic</color>
-      <label>ABS 1.75</label>
+      <label>PETG Recycled 1.75</label>
     </name>
     <version>1</version>
-    <GUID>f71de9e3-a3ed-4e5c-bc8f-79d31df13f1e</GUID>
-    <color_code>#226fff</color_code>
-    <description>Superior quality ABS, produced in The Netherlands. Real filaments guarantees that the ABS is high-quality and diameter consistent filament, giving you the best 3D printing experience. Generally you need a heated bed to print with ABS and a heated chamber is preferred. In the Real filament ABS line, there are also ABS plus and Pro available, which make it easier to print. The ABS is a pure base material, optimized for 3D printing, giving the best performance possible.</description>
+    <GUID>2679b6f9-312f-4736-9075-c9eea5a35c6c</GUID>
+    <color_code>#ffa0b5</color_code>
+    <description>Superior quality PETG, produced in The Netherlands. Real filaments guarantees that the PETG is high-quality and diameter consistent filament, giving you the best 3D printing experience. PETG is great for beginners and novices alike, as it is easy to print and a sweet balance between printability and strong prints. The base material is very clear, so the neutral version delivers semi-transparent results. Within the Real brand we also have PETG available in translucent colors. As the print temperature is higher, the temperature resistance of the print is higher than other materials. If you experience (much) stringing, it is recommended to try a higher temperature.</description>
     <adhesion_info>3dlac on glass sheet is recommended.</adhesion_info>
     <cura:pva_compatible>False</cura:pva_compatible>
     <cura:breakaway_compatible>False</cura:breakaway_compatible>
   </metadata>
   <properties>
-    <density>1.05</density>
+    <density>1.27</density>
     <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="print temperature">255.0</setting>
-    <setting key="heated bed temperature">85.0</setting>
+    <setting key="print temperature">245.0</setting>
+    <setting key="heated bed temperature">65.0</setting>
     <setting key="standby temperature">220.0</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>
     <setting key="retraction amount">6.5</setting>
     <setting key="retraction speed">45.0</setting>
+    <setting key="print cooling">80.0</setting>
     <machine>
       <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker S5" />
       <setting key="print temperature">230</setting>
