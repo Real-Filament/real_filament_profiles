@@ -30,7 +30,7 @@
     <machine>
       <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker 3" />
       <setting key="print temperature">230</setting>
-      <setting key="heated bed temperature">60</setting>
+      <setting key="heated bed temperature">65</setting>
       <setting key="standby temperature">175</setting>
       <setting key="print cooling">100</setting>
       <hotend id="BB 0.4">
@@ -52,7 +52,7 @@
     <machine>
       <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker 3 Extended" />
       <setting key="print temperature">230</setting>
-      <setting key="heated bed temperature">60</setting>
+      <setting key="heated bed temperature">65</setting>
       <setting key="standby temperature">175</setting>
       <setting key="print cooling">100</setting>
       <hotend id="BB 0.4">
@@ -74,7 +74,7 @@
     <machine>
       <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker S5" />
       <setting key="print temperature">230</setting>
-      <setting key="heated bed temperature">60</setting>
+      <setting key="heated bed temperature">65</setting>
       <setting key="standby temperature">175</setting>
       <setting key="print cooling">100</setting>
       <hotend id="BB 0.4">
@@ -96,7 +96,7 @@
     <machine>
       <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker S3" />
       <setting key="print temperature">230</setting>
-      <setting key="heated bed temperature">60</setting>
+      <setting key="heated bed temperature">65</setting>
       <setting key="standby temperature">175</setting>
       <setting key="print cooling">100</setting>
       <hotend id="BB 0.4">
