@@ -13,3 +13,11 @@ In the material preferences click the import button:
 ![cura_installation step 2](cura_installation_2.png)
 
 Find the material profile in the Cura subfolder of the extracted Real Filaments profiles download and open it. Now you can use the profile to slice your favorite 3D print.
+
+## PrusaSlicer profiles
+
+The PrusaSlicer directory includes profiles rouped by 3D printer brand. To load profiles, find the import config bundle option in the main menu.
+
+![prusaslicer_installation step 1](prusaslicer_installation_1.png)
+
+Select the downloaded ini file from the directory and click open. Under the filament tab alle Real filament profiles should be now available.
